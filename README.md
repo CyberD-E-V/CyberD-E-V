@@ -5,7 +5,7 @@
 </h1>
 
 <br/>
-  [![Cyber-Dev-logo.png](https://i.postimg.cc/rpG5sjbc/Cyber-Dev-logo.png)](https://postimg.cc/8F57nRNn)
+
 <br/>
 
 <div align="center">
