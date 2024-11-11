@@ -1,4 +1,4 @@
-![banner-cyberdev-github](https://github.com/user-attachments/assets/294a5b36-67db-4f19-83a2-d11f4b5a193e)
+![banner-cyberdev](https://github.com/user-attachments/assets/5d84832f-1911-4698-ae6f-19ede344b469)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
